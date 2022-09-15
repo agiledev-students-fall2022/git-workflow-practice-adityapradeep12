@@ -7,3 +7,6 @@ I find it interesting how Meta is starting to pivot into a whole new industry, m
 
 # Ahmad Almesned's Comment
 I've also been aware of the trajectory Meta is going towards and it's pretty surprising like you mentioned that VR developers are against Meta rather than taking their side. I understand where they are coming from though since it wouldn't be the greatest feeling to see one of the biggest tech companies delve deep into the field you work in, possibly converting it into a monopoly in their favor. 
+
+# Rayhan Ahmed's Comment
+I think its interesting that a massive company like Meta is changing course. I think that I agree with the regulation argument. Meta as an organization is probably not the best choice to regulate VR technology. I think that small developers/startups will be steamrolled by the massive VR pivot that Meta is doing which is bad for innovation in the space. I also think that Meta has alterior motives besides just making VR technology as a whole better (such as making more profit).
