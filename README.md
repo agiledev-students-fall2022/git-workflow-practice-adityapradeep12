@@ -1,2 +1,5 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# What is an interesting article about Software Engineering?
+[VR developers accuse Facebook of withholding the keys to metaverse success](https://www.washingtonpost.com/technology/2022/09/14/facebook-meta-virtual-reality-vr-competition/)
+
+# Why is it interesting?
+I find it interesting how Meta is starting to pivot into a whole new industry, mainly being virtual reality. From my knowledge, it is basically the dominating big tech company that truly believes that pervasing this sector will reap great rewards. Thus, I found it surprising that virtual reality devs are taking a stance *against* Meta rather than wanting to join the leading giant. But as I read more about the article, I began to understand the sentiment of these devs - that they don't want to be regulated and controlled by an "autonomous" body such as Meta, but rather have a more creative reign over their products.
